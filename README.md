@@ -36,15 +36,15 @@
  
 ###
  
-<p align="left">👋 Bonjour ! Je suis Sataev Chaima, un passionné d'informatique actuellement en formation chez l'organisme de formation Elan. Je me spécialise dans le développement web et mobile, explorant un large éventail de technologies pour construire des solutions innovantes.
- 
-🚀 Le 29 mai marque le début de mon stage en tant que développeur web, une étape excitante où je pourrai mettre en pratique les compétences acquises au cours de ma formation. Mon parcours d'apprentissage comprend l'exploration approfondie de langages tels que PHP et JavaScript, ainsi que la conception de maquettes sur Figma pour donner vie à mes idées.
- 
-💻 Je suis familier avec le modèle MVC grâce à mes expériences sur JMerise, et j'ai acquis une compréhension solide des bases de données relationnelles en travaillant avec MySQL. En plus de maîtriser les outils techniques, j'ai également développé des compétences en gestion de projet, créant des cahiers des charges et utilisant la méthode MOSCOW sur Trello pour prioriser les tâches.
- 
-✨ Je suis passionné par le potentiel infini de l'informatique pour résoudre des problèmes et améliorer la vie des gens. Ma motivation et ma détermination me poussent à continuer à apprendre et à évoluer, dans le but de trouver mon premier emploi dans le domaine et de contribuer de manière significative à des projets inspirants.
- 
-🌱 Je suis toujours ouvert aux opportunités de collaboration et d'apprentissage, alors n'hésitez pas à me contacter si vous souhaitez discuter de projets intéressants ou de possibilités de développement professionnel. Ensemble, nous pouvons repousser les limites de ce que la technologie peut accomplir !</p>
+<p align="left">👋 Salut ! Je suis chaima garoui une passionnée de développement web et d'innovation technologique, actuellement étudiante en remise à niveau pour le titre de Concepteur d'Applications. J'ai un Bac+2 en informatique, et je suis toujours prête à apprendre et à explorer de nouvelles technologies.
+
+🚀 Je suis à la recherche d'un stage qui me permettra d'enrichir mes compétences pratiques dans le domaine du développement web. J'ai travaillé sur plusieurs projets académiques, y compris la création d'un Site Vitrine d'Entreprise, en utilisant des langages comme HTML, CSS et JavaScript.
+
+💻 Mes compétences techniques couvrent plusieurs langages de programmation tels que PHP, Java, Python, JavaScript, HTML/CSS, ainsi que C. J'ai également de l'expérience avec des outils de développement tels que Git, MySQL, et Visual Studio Code.
+
+🌟 En dehors de mes études, j'aime enseigner les mathématiques et l'informatique, ce qui me permet de partager mes connaissances et de continuer à apprendre. Je suis également passionnée d'équitation, ce qui montre mon esprit d'équipe et ma discipline.
+
+✨ Je suis une personne organisée, persévérante et créative, avec un grand intérêt pour relever de nouveaux défis et collaborer sur des projets innovants. Si vous avez des opportunités de stage ou de collaboration, je serais ravie d'en discuter avec vous.</p>
  
 ###
  
@@ -59,7 +59,17 @@
  
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+
 
 </p>
  
