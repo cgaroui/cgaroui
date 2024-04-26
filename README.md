@@ -9,7 +9,7 @@
  
 ###
  
-<h1 align="center">Salut 👋 Je m'appelle Magomed!</h1>
+<h1 align="center">Salut 👋 Je m'appelle Chaima!</h1>
  
 ###
  
@@ -43,7 +43,7 @@
  
 ###
  
-<p align="left">👋 Bonjour ! Je suis Sataev Magomed, un passionné d'informatique actuellement en formation chez l'organisme de formation Elan. Je me spécialise dans le développement web et mobile, explorant un large éventail de technologies pour construire des solutions innovantes.
+<p align="left">👋 Bonjour ! Je suis Sataev Chaima, un passionné d'informatique actuellement en formation chez l'organisme de formation Elan. Je me spécialise dans le développement web et mobile, explorant un large éventail de technologies pour construire des solutions innovantes.
  
 🚀 Le 29 mai marque le début de mon stage en tant que développeur web, une étape excitante où je pourrai mettre en pratique les compétences acquises au cours de ma formation. Mon parcours d'apprentissage comprend l'exploration approfondie de langages tels que PHP et JavaScript, ainsi que la conception de maquettes sur Figma pour donner vie à mes idées.
  
